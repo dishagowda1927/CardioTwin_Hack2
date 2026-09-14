@@ -1,0 +1,6 @@
+{
+  "name": "CardioTwin AI",
+  "description": "An Explainable AI-Powered Personalized Cardiovascular Risk Intelligence and Simulation Platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
